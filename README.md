@@ -29,6 +29,7 @@ GET https://www.yourdomain.com/api/orders
 ```
 
 The endpoint to add an order to the store should look like this:
+
 POST https://www.yourdomain.com/api/order
 
 BODY
